@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: dbfba07b2a8ad45669613941d37d960a
+timeCreated: 1488230289
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MegaMan8-bit_sprite_sheet_0
+    21300002: MegaMan8-bit_sprite_sheet_1
+    21300004: MegaMan8-bit_sprite_sheet_2
+    21300006: MegaMan8-bit_sprite_sheet_3
+    21300008: MegaMan8-bit_sprite_sheet_4
+    21300010: MegaMan8-bit_sprite_sheet_5
+    21300012: MegaMan8-bit_sprite_sheet_6
+    21300014: MegaMan8-bit_sprite_sheet_7
+    21300016: MegaMan8-bit_sprite_sheet_8
+    21300018: MegaMan8-bit_sprite_sheet_9
+    21300020: MegaMan8-bit_sprite_sheet_10
+    21300022: MegaMan8-bit_sprite_sheet_11
+    21300024: MegaMan8-bit_sprite_sheet_12
+    21300026: MegaMan8-bit_sprite_sheet_13
+    21300028: MegaMan8-bit_sprite_sheet_14
+    21300030: MegaMan8-bit_sprite_sheet_15
+    21300032: MegaMan8-bit_sprite_sheet_16
+    21300034: MegaMan8-bit_sprite_sheet_17
+    21300036: MegaMan8-bit_sprite_sheet_18
+    21300038: MegaMan8-bit_sprite_sheet_19
+    21300040: MegaMan8-bit_sprite_sheet_20
+    21300042: MegaMan8-bit_sprite_sheet_21
+    21300044: MegaMan8-bit_sprite_sheet_22
+    21300046: MegaMan8-bit_sprite_sheet_23
+    21300048: MegaMan8-bit_sprite_sheet_24
+    21300050: MegaMan8-bit_sprite_sheet_25
+    21300052: MegaMan8-bit_sprite_sheet_26
+    21300054: MegaMan8-bit_sprite_sheet_27
+    21300056: MegaMan8-bit_sprite_sheet_28
+    21300058: MegaMan8-bit_sprite_sheet_29
+    21300060: MegaMan8-bit_sprite_sheet_30
+    21300062: MegaMan8-bit_sprite_sheet_31
+    21300064: MegaMan8-bit_sprite_sheet_32
+    21300066: MegaMan8-bit_sprite_sheet_33
+    21300068: MegaMan8-bit_sprite_sheet_34
+    21300070: MegaMan8-bit_sprite_sheet_35
+    21300072: MegaMan8-bit_sprite_sheet_36
+    21300074: MegaMan8-bit_sprite_sheet_37
+    21300076: MegaMan8-bit_sprite_sheet_38
+    21300078: MegaMan8-bit_sprite_sheet_39
+    21300080: MegaMan8-bit_sprite_sheet_40
+    21300082: MegaMan8-bit_sprite_sheet_41
+    21300084: MegaMan8-bit_sprite_sheet_42
+    21300086: MegaMan8-bit_sprite_sheet_43
+    21300088: MegaMan8-bit_sprite_sheet_44
+    21300090: MegaMan8-bit_sprite_sheet_45
+    21300092: MegaMan8-bit_sprite_sheet_46
+    21300094: MegaMan8-bit_sprite_sheet_47
+    21300096: MegaMan8-bit_sprite_sheet_48
+    21300098: MegaMan8-bit_sprite_sheet_49
+    21300100: MegaMan8-bit_sprite_sheet_50
+    21300102: MegaMan8-bit_sprite_sheet_51
+    21300104: MegaMan8-bit_sprite_sheet_52
+    21300106: MegaMan8-bit_sprite_sheet_53
+    21300108: MegaMan8-bit_sprite_sheet_54
+    21300110: MegaMan8-bit_sprite_sheet_55
+    21300112: MegaMan8-bit_sprite_sheet_56
+    21300114: MegaMan8-bit_sprite_sheet_57
+    21300116: MegaMan8-bit_sprite_sheet_58
+    21300118: MegaMan8-bit_sprite_sheet_59
+    21300120: MegaMan8-bit_sprite_sheet_60
+    21300122: MegaMan8-bit_sprite_sheet_61
+    21300124: MegaMan8-bit_sprite_sheet_62
+    21300126: MegaMan8-bit_sprite_sheet_63
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 15
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 192
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 208
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 192
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 192
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 192
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 192
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 192
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 192
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 192
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 192
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 192
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 156
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 156
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 156
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 156
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 156
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 156
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 156
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 156
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 156
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 116
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 116
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 116
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 121
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 116
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 116
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 116
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 116
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 116
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 116
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 116
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 81
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 81
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 81
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 81
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 81
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 81
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 81
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 81
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 81
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 81
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 81
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 42
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 42
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 42
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 42
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 42
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 42
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 42
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 42
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 42
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 42
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 56
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 42
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 56
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 42
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 5
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 3
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 3
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 3
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 3
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan8-bit_sprite_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
